@@ -1,0 +1,17 @@
+.blue-btn {
+    background-color: #538bc1;
+    color: #fff;
+}
+
+.blue-btn:hover {
+    background-color: #8fb4d7;
+    color: #fff;
+}
+
+.blue-text {
+    color: #538bc1;
+}
+
+.blue-text:hover {
+    color: #8fb4d7;
+}

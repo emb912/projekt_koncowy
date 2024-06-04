@@ -1,0 +1,38 @@
+.App-logo {
+  height: 80px;
+}
+
+.App-header {
+  background-color: #a8b58e;
+  padding: 40px;
+  color: white;
+  text-align: center;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.App-link {
+  text-decoration: none;
+  color: inherit;
+  align-items: center;
+  justify-content: center;
+}
+
+.App-link:hover {
+  color: #538bc1;
+}
+
+.link {
+  color: #538bc1;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: #8fb4d7;
+}
